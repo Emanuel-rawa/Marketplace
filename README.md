@@ -42,6 +42,11 @@ Veja o protótipo inicial criado para a Loja:
 
 ## 📁 Estrutura do Projeto
 
+```
+
+```
+
+```
 /Loja3D/
 ├──/src/
 ├── index.html
@@ -49,7 +54,10 @@ Veja o protótipo inicial criado para a Loja:
 ├── cadastro.html
 ├── style.css
 └── script.js
+```
 
+```
 ## 👨‍🏫 Professor
 
 Prof. Jair C. Leite
+```
