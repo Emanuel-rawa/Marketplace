@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cadastro - Loja3D</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="form-container">
+      <h2>Cadastro</h2>
+      <form id="cadastroForm">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" required />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required />
+
+        <label for="senha">Senha:</label>
+        <input type="password" id="senha" required minlength="6" />
+
+        <button type="submit">Cadastrar</button>
+      </form>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
