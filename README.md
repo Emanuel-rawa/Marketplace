@@ -35,16 +35,9 @@ A **Loja** é um marketplace simples voltado à compra e venda de itens feitos e
 - Persistência de dados com MongoDB;
 - Implementar autenticação e carrinho funcional.
 
-## 🔗 Protótipo no Figma
-
-Veja o protótipo inicial criado para a Loja:
-👉 [Protótipo no Figma](https://www.figma.com/file/vKZh90i5p5qOa0XmpjMw2V/Loja3D---Marketplace?type=design&node-id=0%3A1&mode=design&t=HCFmy0sObVguqHOQ-1)
-
 ## 📁 Estrutura do Projeto
 
-```
 
-```
 
 ```
 /Loja3D/
@@ -56,8 +49,8 @@ Veja o protótipo inicial criado para a Loja:
 └── script.js
 ```
 
-```
+
 ## 👨‍🏫 Professor
 
 Prof. Jair C. Leite
-```
+
